@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+:root {
+  --Abel: "Abel", sans-serif;
+  --Anton: "Anton", sans-serif;
+  --Orange: #e6563b;
+  --Yellow: #eb9d3a;
+  --Green: #7cb06c;
+  --Blue: #00aba9;
+  --Softwhite: #f0f0f0;
+  --Lightgrey: #e6e6e6;
+}
+
+* {
+  background-color: var(--Lightgrey);
+}
+
+.Header-text {
+  font-size: 40px;
+}
